@@ -1,81 +1,91 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Harshit%20Soni&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDE-II%20%40%20Flipkart%20%E2%80%94%20ML%20Infrastructure%20%26%20Backend%20Systems&descAlignY=62&descAlign=50&descColor=a9b1d6" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=110&lines=Harshit+Soni" alt="Harshit Soni" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1200&color=7AA2F7&center=true&vCenter=true&random=false&width=680&lines=SDE-II+%40+Flipkart+%7C+ML+Infra+%26+Backend;High-Throughput+%7C+Low-Latency+%7C+Distributed+Systems;gRPC+%7C+TF+Serving+%7C+Spark+%7C+Feature+Platforms;Zero+P0%2FP1+on+Big+Billion+Day;Building+AI+infra+at+national+scale" alt="Subtitle" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitlarl)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitlarl@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitlarl)
+[![Profile Views](https://komarev.com/ghpvc/?username=harshitlarl&color=7c3aed&style=for-the-badge&label=Profile+Views)](https://github.com/harshitlarl)
+
+<br/>
+
+<img src="https://img.shields.io/badge/2%2B_Years-Experience-22c55e?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Role-SDE--II_%40_Flipkart-f97316?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/CGPA-9.39_%2F_10-3b82f6?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GRID_3.0-Top_30_%2F_84K%2B-a855f7?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Award-Instant_Karma_%40_Flipkart-ec4899?style=for-the-badge&labelColor=0d1117"/>
+
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshitlarl">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshitlarl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/harshitlarl">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=harshitlarl&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+<br/>
+
+---
+
+<table>
+<tr>
+<td valign="top" width="58%">
+
+### 🧑‍💻 Who I Am
+
+I'm a **Backend Engineer & ML Infrastructure specialist** at **Flipkart**, building systems that power product ranking and ML inference for **hundreds of millions** of users — including peak Big Billion Day traffic.
+
+- 🏢 **SDE-II** @ Flipkart, Bangalore
+- 🤖 Focused on **Production AI/ML** · Distributed Systems · Feature Platforms
+- 🎓 B.Tech CSE, VIT Vellore — **CGPA 9.39 / 10**
+- 🔭 Currently exploring: **LLMs, RAG systems, AI Agents**
+- 📍 Bangalore, India
+
+</td>
+<td valign="top" width="42%" align="center">
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="300" alt="Developer at Work"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## ⚡ Impact at Scale
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&random=false&width=650&lines=Building+production+ML+infra+at+national+scale+%F0%9F%9A%80;High-Throughput+%7C+Low-Latency+%7C+Distributed+Systems;Backend+Engineer+%2B+ML+Infrastructure+%40+Flipkart;gRPC+%7C+TF+Serving+%7C+Spark+%7C+Feature+Platforms;Zero+P0%2FP1+on+Big+Billion+Day+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/Ranking_Features-8_%E2%86%92_40_(5%C3%97_growth)-22c55e?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Druid_Ingestion-Billions_of_Rows-3b82f6?style=for-the-badge&labelColor=0d1117"/>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/BBD_Peak_Incidents-Zero_P0%2FP1-ef4444?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ML_Feature_Onboarding-3%C3%97_Faster_(Keymaker)-a855f7?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Flipkart_GRID-Top_30_%2F_84%2C000%2B-f59e0b?style=for-the-badge&labelColor=0d1117"/>
 </p>
 
 <br/>
 
 ---
 
-## 🧑‍💻 About Me
+## 🤖 What I Build
 
-```java
-public class HarshitSoni extends SoftwareEngineer {
-
-    final String role      = "SDE-II @ Flipkart — ML Infra & Backend Systems";
-    final String education = "B.Tech CSE, VIT Vellore  |  CGPA: 9.39 / 10";
-    final String location  = "Bangalore, India 🇮🇳";
-
-    final String[] superpowers = {
-        "gRPC inference layers on top of TensorFlow Serving",
-        "Spark pipelines ingesting billions of rows into Aerospike",
-        "Druid clusters for real-time ML feature telemetry",
-        "Keeping P0/P1 count = 0 during Big Billion Day 🔥",
-        "Scaling ranking features from 8 → 40 in production"
-    };
-
-    final String[] currentlyExploring = {
-        "LLMs, RAG architectures & AI Agents",
-        "ML Observability & Feature Store patterns",
-        "High-performance distributed inference systems"
-    };
-
-    final String awards =
-        "🏆 Instant Karma Award @ Flipkart  +  🥇 Top 30 / 84,000+ Flipkart GRID 3.0";
-}
-```
-
-<br/>
-
----
-
-## 🤖 AI / ML Focus
-
-> I work at the intersection of **large-scale backend systems** and **production ML infrastructure** — where every millisecond and every nine of uptime matters.
+> Working at the intersection of **production ML infrastructure** and **high-scale backend engineering**
 
 <br/>
 
 <div align="center">
 
-| Domain | What I've Built |
-|:-------|:----------------|
-| **ML Inference** | gRPC layer on TensorFlow Serving — boosted throughput & cut latency for nonlinear DL models |
-| **Feature Platform** | Feature Store (Varys) @ Flipkart — real-time ranking at national scale across multi-DC |
-| **Data Pipelines** | Spark + Azkaban → Aerospike; scaled production ranking features **8 → 40** |
-| **ML Observability** | Druid cluster ingesting **billions of rows** of feature telemetry; DS dashboards for feature quality |
-| **NLP Research** | Hybrid extractive–abstractive summarization pipeline for resource-constrained devices @ Samsung |
+| Domain | Impact |
+|:-------|:-------|
+| 🧠 **ML Inference** | gRPC layer on TF Serving — ↑ throughput, ↓ latency for nonlinear DL models |
+| 🗄️ **Feature Platform** | Varys Feature Store @ Flipkart — real-time ranking at national scale, multi-DC |
+| 🔁 **Data Pipelines** | Spark + Azkaban → Aerospike; ranking features scaled **8 → 40** |
+| 📊 **ML Observability** | Druid cluster — **billions of rows** of feature telemetry, DS dashboards |
+| 🏋️ **Scale Readiness** | BBD / Opus NFRs, chaos playbooks — **zero P0/P1** on peak load |
+| 🔤 **NLP Research** | Hybrid extractive–abstractive summarization pipeline @ Samsung PRISM |
 
 </div>
-
-<br/>
-
-*Currently exploring: **LLM application development**, RAG systems, and intelligent ML infrastructure*
 
 <br/>
 
@@ -83,47 +93,21 @@ public class HarshitSoni extends SoftwareEngineer {
 
 ## 🛠️ Tech Stack
 
-<p align="center"><b>Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cpp,js&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,js,nodejs,docker,kubernetes,tensorflow,mysql,postgres,mongodb,gcp,aws,git,linux&theme=dark&perline=8" />
   </a>
 </p>
 
-<p align="center"><b>Backend & Infrastructure</b></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,linux,git&theme=dark" />
-  </a>
-</p>
-
-<p align="center"><b>AI / ML & Data</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Druid-29C4DA?style=flat-square&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aerospike-C41B11?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/TF_Serving-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azkaban-0D47A1?style=flat-square&logoColor=white" />
-</p>
-
-<p align="center"><b>Databases</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
-  </a>
-</p>
-
-<p align="center"><b>Cloud & DevOps</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws&theme=dark" />
-  </a>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/TF%20Serving-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Druid-29C4DA?style=flat-square&logo=apache&logoColor=black"/>
+<img src="https://img.shields.io/badge/Aerospike-C41B11?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azkaban-1565C0?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dropwizard-FF5722?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-6366f1?style=flat-square&logoColor=white"/>
 </p>
 
 <br/>
@@ -134,30 +118,18 @@ public class HarshitSoni extends SoftwareEngineer {
 
 <div align="center">
 
-|  | Company | Role | Period |
-|:-:|:--------|:-----|:-------|
-| 🛒 | **Flipkart** | Software Development Engineer **II** | Aug 2025 – Present |
-| 🛒 | **Flipkart** | Software Development Engineer **I** | Sept 2023 – Aug 2025 |
-| 📚 | **Byju's** | Member of Technical Staff – Intern | Sept 2022 – Sept 2023 |
-| 🔬 | **Samsung PRISM** | Research Intern | Oct 2021 – Aug 2022 |
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   🛒  Flipkart          SDE-II              Aug 2025 → Present           │
+│   🛒  Flipkart          SDE-I               Sep 2023 → Aug 2025          │
+│   📚  Byju's            MTS Intern          Sep 2022 → Sep 2023          │
+│   🔬  Samsung PRISM     Research Intern     Oct 2021 → Aug 2022          │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
-
-<br/>
-
-<details>
-<summary><b>⚡ Notable Contributions @ Flipkart  (click to expand)</b></summary>
-
-<br/>
-
-- **gRPC Inference Layer** — Wrapped TF Serving with a gRPC interface to improve production throughput and reduce end-to-end latency for deep-learning models; validated via canary + perf tests
-- **Feature Response Metrics (Druid)** — Stood up a standalone Druid cluster; tuned ingestion pipelines for ingesting **billions of rows** of feature telemetry; automated indexer JSON generation; onboarded DS dashboards for feature quality evaluation
-- **Feature Pipeline Creation** — Designed and shipped Spark + Azkaban ingestion pipelines materializing ranking features into Aerospike (multi-DC); scaled product-ranking features from **8 → 40**
-- **Keymaker Re-architecture** — Converted a 3K-constant Java enum into a class-based registry; overcame JVM limits, restored CI stability, and enabled **~3× faster** ML feature onboarding
-- **BBD / Opus Readiness** — Led NFRs, scale tests, and chaos-failover playbooks; maintained **zero P0/P1 incidents** during peak Big Billion Day loads
-- **Metacortex Framework** — Owned LLD → deployment for the Dropwizard content framework; enforced 80%+ SonarQube coverage, authored docs, led onboarding sessions
-
-</details>
 
 <br/>
 
@@ -166,30 +138,13 @@ public class HarshitSoni extends SoftwareEngineer {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitlarl&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitlarl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
 
-<br/>
+<img src="https://streak-stats.demolab.com?user=harshitlarl&theme=tokyonight&hide_border=true&border_radius=8" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshitlarl&theme=tokyonight&hide_border=true&border_radius=8" />
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitlarl&theme=tokyo-night&hide_border=true&area=true" />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitlarl&theme=tokyo-night&hide_border=true&area=true&area_color=7aa2f7" />
-</div>
-
-<br/>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitlarl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 <br/>
@@ -198,14 +153,12 @@ public class HarshitSoni extends SoftwareEngineer {
 
 <div align="center">
 
-**Let's connect and build something at scale.**
-<br/>
-<a href="https://www.linkedin.com/in/harshitlarl">LinkedIn</a> · <a href="mailto:harshitlarl@gmail.com">Email</a> · <a href="https://github.com/harshitlarl">GitHub</a>
-
-</div>
+**💬 Let's connect and build something that scales.**
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitlarl)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitlarl@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshitlarl)
+
 </div>
